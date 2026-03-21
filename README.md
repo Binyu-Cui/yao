@@ -1,10 +1,6 @@
-# Sprint 2 Documentation
-Student name: Binyu Cui<br>
-Group members: Binyu Cui(24007733), Xiaoya Fan(24014203)
-
-**Project Title - YAO: TRANSFIGURATIONS** 
+**YAO: TRANSFIGURATIONS** 
 ---
-
+## [Video Demonstration](https://youtu.be/4j3s_uCfaSg)
 ## Overview & Project Description
 
 "Yao: Transfigurations" is an interactive installation inspired by the Shan Hai Jing in China, exploring biodiversity and human–nature symbiosis through mythic transformation. 
@@ -35,30 +31,23 @@ By allowing participants to inhabit non-human forms and influence the rhythm of 
 
 
 ### Images:  
-<img width="1920" alt="image" src="https://git.arts.ac.uk/24014203/Xiaoya_FAN-Responsive-Environments-Blog-2024/assets/1366/9f968095-b4b0-4dfc-af0a-44c2ac3d7265">
+<img width="3840" height="2160" alt="11" src="https://github.com/user-attachments/assets/2845cd04-9b0a-4f24-94b0-a673f15a2028" />
+
 
 ---
 
 ## Process
-![process](https://git.arts.ac.uk/24014203/Xiaoya_FAN-Responsive-Environments-Blog-2024/assets/1366/4d8a1404-ccea-4626-a967-904377181ec0)
-![process-1](https://git.arts.ac.uk/24014203/Xiaoya_FAN-Responsive-Environments-Blog-2024/assets/1366/cee508a7-6ea0-44a9-a213-f153112bfd90)
-
----
-
-## Video Demonstration
-
-
-https://git.arts.ac.uk/24014203/Xiaoya_FAN-Responsive-Environments-Blog-2024/assets/1366/ee20e977-87f5-419d-a37e-d8625d4bbae9
+![22](https://github.com/user-attachments/assets/d3d897c0-0984-4955-93ee-fe04d722419b)
+![33](https://github.com/user-attachments/assets/89c98936-c981-4ce1-97bb-0d47c80d7afa)
 
 
 ---
 
 ## Final Images
-![image 1](https://git.arts.ac.uk/24014203/Xiaoya_FAN-Responsive-Environments-Blog-2024/assets/1366/adb90055-db0c-43a6-a3ed-a4c1f2399215)
-![image 2](https://git.arts.ac.uk/24014203/Xiaoya_FAN-Responsive-Environments-Blog-2024/assets/1366/3e2178a7-7e88-4322-9b97-5aae37406973)
-![image 3](https://git.arts.ac.uk/24014203/Xiaoya_FAN-Responsive-Environments-Blog-2024/assets/1366/86dbcb3a-cd7b-4f17-ae26-bd0df853b773)
-![image 4](https://git.arts.ac.uk/24014203/Xiaoya_FAN-Responsive-Environments-Blog-2024/assets/1366/3ffaecd4-177f-4bc5-bdf1-dbb12d80ee0f)
-
+<img width="1507" height="644" alt="44" src="https://github.com/user-attachments/assets/b966722d-fe37-40c4-8ed6-d436b9465db4" />
+<img width="1504" height="648" alt="55" src="https://github.com/user-attachments/assets/27343587-24a2-40ca-802d-37d443a5893e" />
+<img width="1507" height="644" alt="66" src="https://github.com/user-attachments/assets/48b0cc0b-a730-4aef-a0c8-1b1fe1a8f43d" />
+<img width="1504" height="648" alt="77" src="https://github.com/user-attachments/assets/e57fe4a5-2be2-4cd5-9311-04fa10a307e9" />
 
 ---
 
